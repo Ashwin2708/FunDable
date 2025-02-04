@@ -48,7 +48,9 @@ FunDable is a decentralized Web 3.0 crowdfunding platform built to empower indiv
 3. Follow prompts to contribute Ethereum or withdraw funds.
 
 ## 📸 Screenshots
-_Add screenshots here showcasing key features and UI._
+![image](https://github.com/user-attachments/assets/97597b6d-aef9-4d18-b908-53ac6e57cc10)
+![image](https://github.com/user-attachments/assets/4721c0ad-c966-48c2-8a2e-73ebbd6608cb)
+
 
 ## 🤝 Collaboration
 Contributions are welcome! Please follow these steps:
